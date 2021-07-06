@@ -1477,7 +1477,7 @@
     "watch": "webpack --mode=development --watch --progress --config ./webpack/webpack.node.config.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "base64-to-uint8array": "^1.0.0",
     "diff-match-patch": "^1.0.5",
     "gists": "github:lostintangent/gists",
